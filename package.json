@@ -1,0 +1,12 @@
+﻿{
+  "name": "ben10-aliens-api",
+  "version": "1.0.0",
+  "description": "Ben 10 Aliens REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server db.json --host 0.0.0.0 --port $env:PORT"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

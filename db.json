@@ -1,0 +1,1440 @@
+{
+    "aliens":  [
+                   {
+                       "id":  1,
+                       "name":  "Four Arms",
+                       "debut":  "Ben 10",
+                       "species":  "Tetramand",
+                       "abilities":  [
+                                         "Superhuman strength",
+                                         "Enhanced durability",
+                                         "Shockwave generation"
+                                     ],
+                       "description":  "A hulking, four-armed alien with incredible strength from the planet Khoros.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Four_arms.png",
+                       "homePlanet":  "Khoros",
+                       "firstAppearance":  "And Then There Were 10",
+                       "weaknesses":  [
+                                          "Vulnerable to electricity",
+                                          "Limited agility",
+                                          "Large size makes him an easy target"
+                                      ]
+                   },
+                   {
+                       "id":  2,
+                       "name":  "Heatblast",
+                       "debut":  "Ben 10",
+                       "species":  "Pyronite",
+                       "abilities":  [
+                                         "Pyrokinesis",
+                                         "Fire manipulation",
+                                         "Flight",
+                                         "Heat absorption"
+                                     ],
+                       "description":  "A magma-based life form that can generate and control fire.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Heatblast.png",
+                       "homePlanet":  "Pyros",
+                       "firstAppearance":  "And Then There Were 10",
+                       "weaknesses":  [
+                                          "Water weakens his flames",
+                                          "Cold temperatures",
+                                          "Cannot control others\u0027 fire"
+                                      ]
+                   },
+                   {
+                       "id":  3,
+                       "name":  "XLR8",
+                       "debut":  "Ben 10",
+                       "species":  "Kineceleran",
+                       "abilities":  [
+                                         "Super speed",
+                                         "Enhanced reflexes",
+                                         "Accelerated thinking"
+                                     ],
+                       "description":  "A velociraptor-like alien with incredible speed capabilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/XLR8.png",
+                       "homePlanet":  "Kinet",
+                       "firstAppearance":  "And Then There Were 10",
+                       "weaknesses":  [
+                                          "Magnets can disrupt movement",
+                                          "Slippery surfaces",
+                                          "Strong winds"
+                                      ]
+                   },
+                   {
+                       "id":  4,
+                       "name":  "Diamondhead",
+                       "debut":  "Ben 10",
+                       "species":  "Petrosapien",
+                       "abilities":  [
+                                         "Crystal manipulation",
+                                         "Regeneration",
+                                         "Energy refraction"
+                                     ],
+                       "description":  "A silicon-based life form made of super-hard green crystals.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Diamondhead.png",
+                       "homePlanet":  "Petropia",
+                       "firstAppearance":  "And Then There Were 10",
+                       "weaknesses":  [
+                                          "Sonic vibrations can shatter him",
+                                          "Vulnerable to certain acids"
+                                      ]
+                   },
+                   {
+                       "id":  5,
+                       "name":  "Upgrade",
+                       "debut":  "Ben 10",
+                       "species":  "Galvanic Mechamorph",
+                       "abilities":  [
+                                         "Technology merging",
+                                         "Technopathy",
+                                         "Shapeshifting",
+                                         "Regeneration"
+                                     ],
+                       "description":  "A biomechanical alien that can merge with and upgrade any technology.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Upgrade.png",
+                       "homePlanet":  "Galvan B",
+                       "firstAppearance":  "Permanent Retirement",
+                       "weaknesses":  [
+                                          "Vulnerable to electromagnetic pulses",
+                                          "Cannot merge with organic beings",
+                                          "Electricity disrupts him"
+                                      ]
+                   },
+                   {
+                       "id":  6,
+                       "name":  "Grey Matter",
+                       "debut":  "Ben 10",
+                       "species":  "Galvan",
+                       "abilities":  [
+                                         "Genius-level intellect",
+                                         "Small size",
+                                         "Enhanced flexibility"
+                                     ],
+                       "description":  "A tiny frog-like alien with extraordinary intelligence.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Grey_matter.png",
+                       "homePlanet":  "Galvan Prime",
+                       "firstAppearance":  "Washington B.C.",
+                       "weaknesses":  [
+                                          "Extremely fragile",
+                                          "Small size limits physical strength",
+                                          "Vulnerable to being stepped on"
+                                      ]
+                   },
+                   {
+                       "id":  7,
+                       "name":  "Stinkfly",
+                       "debut":  "Ben 10",
+                       "species":  "Lepidopterran",
+                       "abilities":  [
+                                         "Flight",
+                                         "Toxic slime projection",
+                                         "Sharp tail"
+                                     ],
+                       "description":  "A large insectoid alien capable of flight and slime attacks.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Stinkfly.png",
+                       "homePlanet":  "Lepidopterra",
+                       "firstAppearance":  "And Then There Were 10",
+                       "weaknesses":  [
+                                          "Wings are vulnerable",
+                                          "Cannot fly in strong winds",
+                                          "Sensitive to certain chemicals"
+                                      ]
+                   },
+                   {
+                       "id":  8,
+                       "name":  "Ripjaws",
+                       "debut":  "Ben 10",
+                       "species":  "Piscciss Volann",
+                       "abilities":  [
+                                         "Underwater breathing",
+                                         "Sharp teeth",
+                                         "Strong bite",
+                                         "Enhanced swimming"
+                                     ],
+                       "description":  "An anglerfish-like alien adapted for aquatic environments.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ripjaws.png",
+                       "homePlanet":  "Piscciss",
+                       "firstAppearance":  "The Krakken",
+                       "weaknesses":  [
+                                          "Needs water to breathe",
+                                          "Dehydrates quickly on land",
+                                          "Vulnerable when out of water"
+                                      ]
+                   },
+                   {
+                       "id":  9,
+                       "name":  "Wildmutt",
+                       "debut":  "Ben 10",
+                       "species":  "Vulpimancer",
+                       "abilities":  [
+                                         "Enhanced senses",
+                                         "Sharp claws",
+                                         "Enhanced strength",
+                                         "Enhanced agility"
+                                     ],
+                       "description":  "A dog-like alien with no eyes but powerful sensory abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Wildmutt.png",
+                       "homePlanet":  "Vulpin",
+                       "firstAppearance":  "And Then There Were 10",
+                       "weaknesses":  [
+                                          "No eyes/blind",
+                                          "Vulnerable to strong smells",
+                                          "Lacks ranged attacks"
+                                      ]
+                   },
+                   {
+                       "id":  10,
+                       "name":  "Ghostfreak",
+                       "debut":  "Ben 10",
+                       "species":  "Ectonurite",
+                       "abilities":  [
+                                         "Intangibility",
+                                         "Invisibility",
+                                         "Possession",
+                                         "Flight"
+                                     ],
+                       "description":  "A phantom-like alien with supernatural abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ghostfreak.png",
+                       "homePlanet":  "Anur Phaetos",
+                       "firstAppearance":  "Permanent Retirement",
+                       "weaknesses":  [
+                                          "Sunlight weakens him",
+                                          "Cannot possess beings with strong will",
+                                          "Vulnerable to bright light"
+                                      ]
+                   },
+                   {
+                       "id":  11,
+                       "name":  "Cannonbolt",
+                       "debut":  "Ben 10",
+                       "species":  "Arburian Pelarota",
+                       "abilities":  [
+                                         "Rolling attack",
+                                         "Enhanced durability",
+                                         "Sphere transformation"
+                                     ],
+                       "description":  "An armadillo-like alien that can roll into an indestructible sphere.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Cannonbolt.png",
+                       "homePlanet":  "Arburia",
+                       "firstAppearance":  "The Big Tick",
+                       "weaknesses":  [
+                                          "Cannot see while rolled up",
+                                          "Vulnerable to sharp spikes",
+                                          "Can lose control when rolling"
+                                      ]
+                   },
+                   {
+                       "id":  12,
+                       "name":  "Wildvine",
+                       "debut":  "Ben 10",
+                       "species":  "Florauna",
+                       "abilities":  [
+                                         "Vine generation",
+                                         "Seed bombs",
+                                         "Regeneration",
+                                         "Digging"
+                                     ],
+                       "description":  "A plant-based alien with extensible vines and seed bombs.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Wildvine_Flors.png",
+                       "homePlanet":  "Flors Verdance",
+                       "firstAppearance":  "Camp Fear",
+                       "weaknesses":  [
+                                          "Fire",
+                                          "Cold temperatures",
+                                          "Can be cut or torn"
+                                      ]
+                   },
+                   {
+                       "id":  13,
+                       "name":  "Upchuck",
+                       "debut":  "Ben 10",
+                       "species":  "Gourmand",
+                       "abilities":  [
+                                         "Matter consumption",
+                                         "Energy blasts",
+                                         "Enhanced digestion"
+                                     ],
+                       "description":  "An alien with multiple stomachs that can eat and convert any matter into energy.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Upchuck.png",
+                       "homePlanet":  "Peptos XI",
+                       "firstAppearance":  "The Visitor",
+                       "weaknesses":  [
+                                          "Limited without something to eat",
+                                          "Can be overfed",
+                                          "Vulnerable to indigestion"
+                                      ]
+                   },
+                   {
+                       "id":  14,
+                       "name":  "Ditto",
+                       "debut":  "Ben 10",
+                       "species":  "Splixson",
+                       "abilities":  [
+                                         "Self-duplication",
+                                         "Enhanced agility",
+                                         "Shared consciousness"
+                                     ],
+                       "description":  "A small alien that can create unlimited copies of itself.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ditto.png",
+                       "homePlanet":  "Hathor",
+                       "firstAppearance":  "Divided We Stand",
+                       "weaknesses":  [
+                                          "Shared pain between clones",
+                                          "Clones cannot recombine if separated too far"
+                                      ]
+                   },
+                   {
+                       "id":  15,
+                       "name":  "Eye Guy",
+                       "debut":  "Ben 10",
+                       "species":  "Opticoid",
+                       "abilities":  [
+                                         "Multiple eyes",
+                                         "Energy beams",
+                                         "360° vision"
+                                     ],
+                       "description":  "An alien covered in eyes that can fire various energy beams.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Eye_Guy.png",
+                       "homePlanet":  "Sightra",
+                       "firstAppearance":  "Ben 10 vs. Negative 10: Part 2",
+                       "weaknesses":  [
+                                          "Blinding all eyes renders him powerless",
+                                          "Vulnerable to darkness"
+                                      ]
+                   },
+                   {
+                       "id":  16,
+                       "name":  "Way Big",
+                       "debut":  "Ben 10",
+                       "species":  "To\u0027kustar",
+                       "abilities":  [
+                                         "Gigantic size",
+                                         "Cosmic ray beams",
+                                         "Superhuman strength"
+                                     ],
+                       "description":  "A colossal humanoid alien over 100 feet tall with cosmic powers.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Waybig.png",
+                       "homePlanet":  "Cosmic Storms",
+                       "firstAppearance":  "Ben 10: Secret of the Omnitrix",
+                       "weaknesses":  [
+                                          "Huge size makes him an easy target",
+                                          "Slow movement",
+                                          "High energy consumption"
+                                      ]
+                   },
+                   {
+                       "id":  17,
+                       "name":  "Swampfire",
+                       "debut":  "Alien Force",
+                       "species":  "Methanosian",
+                       "abilities":  [
+                                         "Regeneration",
+                                         "Pyrokinesis",
+                                         "Plant manipulation",
+                                         "Methane generation"
+                                     ],
+                       "description":  "A plant-like alien that can generate methane and control fire.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Swampfire.png",
+                       "homePlanet":  "Methanos",
+                       "firstAppearance":  "Ben 10 Returns: Part 1",
+                       "weaknesses":  [
+                                          "Cold temperatures",
+                                          "Can be cut and divided",
+                                          "Strong winds disperse methane"
+                                      ]
+                   },
+                   {
+                       "id":  18,
+                       "name":  "Echo Echo",
+                       "debut":  "Alien Force",
+                       "species":  "Sonorosian",
+                       "abilities":  [
+                                         "Sonic screams",
+                                         "Duplication",
+                                         "Echolocation",
+                                         "Sound manipulation"
+                                     ],
+                       "description":  "A silicon-based alien that can duplicate and create powerful sonic attacks.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/echo_echo.png",
+                       "homePlanet":  "Sonorosia",
+                       "firstAppearance":  "Ben 10 Returns: Part 2",
+                       "weaknesses":  [
+                                          "Solid soundproof materials",
+                                          "Vulnerable to being muffled",
+                                          "Clones share damage"
+                                      ]
+                   },
+                   {
+                       "id":  19,
+                       "name":  "Humungousaur",
+                       "debut":  "Alien Force",
+                       "species":  "Vaxasaurian",
+                       "abilities":  [
+                                         "Size alteration",
+                                         "Enhanced strength",
+                                         "Enhanced durability"
+                                     ],
+                       "description":  "A dinosaur-like alien that can grow larger and stronger.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Humungousaur.png",
+                       "homePlanet":  "Terradino",
+                       "firstAppearance":  "Ben 10 Returns: Part 1",
+                       "weaknesses":  [
+                                          "Slower when larger",
+                                          "High energy consumption",
+                                          "Less agile at full size"
+                                      ]
+                   },
+                   {
+                       "id":  20,
+                       "name":  "Jetray",
+                       "debut":  "Alien Force",
+                       "species":  "Aerophibian",
+                       "abilities":  [
+                                         "Flight",
+                                         "Neuroshock beams",
+                                         "Super speed",
+                                         "Space survival"
+                                     ],
+                       "description":  "A manta ray-like alien capable of supersonic flight and space travel.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Jetray.png",
+                       "homePlanet":  "Aeropela",
+                       "firstAppearance":  "Everybody Talks About the Weather",
+                       "weaknesses":  [
+                                          "Vulnerable to electricity",
+                                          "Wings can be damaged",
+                                          "Cannot fly in water"
+                                      ]
+                   },
+                   {
+                       "id":  21,
+                       "name":  "Big Chill",
+                       "debut":  "Alien Force",
+                       "species":  "Necrofriggian",
+                       "abilities":  [
+                                         "Cryokinesis",
+                                         "Intangibility",
+                                         "Flight",
+                                         "Ice breath"
+                                     ],
+                       "description":  "A moth-like alien that can freeze enemies and phase through matter.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/big_chill.png",
+                       "homePlanet":  "Kylmyys",
+                       "firstAppearance":  "Kevin\u0027s Big Score",
+                       "weaknesses":  [
+                                          "Heat nullifies intangibility",
+                                          "Strong emotions affect powers",
+                                          "Breeding instincts"
+                                      ]
+                   },
+                   {
+                       "id":  22,
+                       "name":  "Chromastone",
+                       "debut":  "Alien Force",
+                       "species":  "Crystalsapien",
+                       "abilities":  [
+                                         "Energy absorption",
+                                         "Energy redirection",
+                                         "Light manipulation",
+                                         "Flight"
+                                     ],
+                       "description":  "A crystalline alien that can absorb and manipulate energy.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Chromastone.png",
+                       "homePlanet":  "Petropia",
+                       "firstAppearance":  "All That Glitters",
+                       "weaknesses":  [
+                                          "Overloading with energy can crack him",
+                                          "Cannot absorb certain energies"
+                                      ]
+                   },
+                   {
+                       "id":  23,
+                       "name":  "Brainstorm",
+                       "debut":  "Alien Force",
+                       "species":  "Cerebrocrustacean",
+                       "abilities":  [
+                                         "Super intelligence",
+                                         "Electrokinesis",
+                                         "Force fields",
+                                         "Levitation"
+                                     ],
+                       "description":  "A crustacean-like alien with extraordinary intelligence and electric powers.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Brainstorm.png",
+                       "homePlanet":  "Encephalonus IV",
+                       "firstAppearance":  "Pier Pressure",
+                       "weaknesses":  [
+                                          "Shell can be removed exposing brain",
+                                          "Arrogance",
+                                          "Overconfidence"
+                                      ]
+                   },
+                   {
+                       "id":  24,
+                       "name":  "Spidermonkey",
+                       "debut":  "Alien Force",
+                       "species":  "Arachnichimp",
+                       "abilities":  [
+                                         "Enhanced agility",
+                                         "Web shooting",
+                                         "Wall crawling",
+                                         "Prehensile tail"
+                                     ],
+                       "description":  "A monkey-spider hybrid with incredible agility and web-spinning abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Spidermonkey.png",
+                       "homePlanet":  "Aranhascimmia",
+                       "firstAppearance":  "What Are Little Girls Made Of?",
+                       "weaknesses":  [
+                                          "Fire",
+                                          "Can be trapped in own webs",
+                                          "Tail is vulnerable"
+                                      ]
+                   },
+                   {
+                       "id":  25,
+                       "name":  "Goop",
+                       "debut":  "Alien Force",
+                       "abilities":  [
+                                         "Shape-shifting",
+                                         "Acid generation",
+                                         "Regeneration",
+                                         "Anti-gravity projection"
+                                     ],
+                       "species":  "Polymorph",
+                       "description":  "A blob of living slime controlled by a UFO-like device.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Goop.png",
+                       "homePlanet":  "Viscosia",
+                       "firstAppearance":  "The Gauntlet",
+                       "weaknesses":  [
+                                          "Anti-gravity device can be destroyed",
+                                          "Cannot maintain form without device",
+                                          "Vulnerable to extreme cold"
+                                      ]
+                   },
+                   {
+                       "id":  26,
+                       "name":  "Alien X",
+                       "debut":  "Alien Force",
+                       "species":  "Celestialsapien",
+                       "abilities":  [
+                                         "Reality warping",
+                                         "Omnipotence",
+                                         "Invulnerability",
+                                         "Space-time manipulation"
+                                     ],
+                       "description":  "An omnipotent alien with near-unlimited cosmic powers.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Alien_X.png",
+                       "homePlanet":  "Forge of Creation",
+                       "firstAppearance":  "X = Ben + 2",
+                       "weaknesses":  [
+                                          "Requires majority vote to act",
+                                          "Serena and Bellicus argue constantly",
+                                          "Nearly immobile in debate"
+                                      ]
+                   },
+                   {
+                       "id":  27,
+                       "name":  "Lodestar",
+                       "debut":  "Alien Force",
+                       "species":  "Biosovortian",
+                       "abilities":  [
+                                         "Magnetism manipulation",
+                                         "Magnetic force fields",
+                                         "Levitation"
+                                     ],
+                       "description":  "A living magnet that can control metallic objects.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Lodestar.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Simple",
+                       "weaknesses":  [
+                                          "Non-magnetic materials",
+                                          "Can accidentally attract unwanted metals",
+                                          "Overheating"
+                                      ]
+                   },
+                   {
+                       "id":  28,
+                       "name":  "Rath",
+                       "debut":  "Alien Force",
+                       "species":  "Appoplexian",
+                       "abilities":  [
+                                         "Enhanced strength",
+                                         "Sharp claws",
+                                         "Enhanced agility",
+                                         "Intimidation"
+                                     ],
+                       "description":  "A tiger-like alien with incredible strength and an aggressive personality.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Rath.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Con of Rath",
+                       "weaknesses":  [
+                                          "Easily provoked",
+                                          "Lack of intelligence",
+                                          "Poor strategic thinking"
+                                      ]
+                   },
+                   {
+                       "id":  29,
+                       "name":  "Water Hazard",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Orishan",
+                       "abilities":  [
+                                         "Hydrokinesis",
+                                         "Water absorption",
+                                         "Moisture detection",
+                                         "Enhanced strength"
+                                     ],
+                       "description":  "An armored crustacean alien that can control and shoot water.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Waterguy.png",
+                       "homePlanet":  "Kiusana",
+                       "firstAppearance":  "Fame",
+                       "weaknesses":  [
+                                          "Needs moisture",
+                                          "Heat can evaporate water",
+                                          "Vulnerable in dry environments"
+                                      ]
+                   },
+                   {
+                       "id":  30,
+                       "name":  "Ampfibian",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Amperi",
+                       "abilities":  [
+                                         "Electrokinesis",
+                                         "Intangibility",
+                                         "Flight",
+                                         "Underwater breathing"
+                                     ],
+                       "description":  "A jellyfish-like alien that can generate electricity and phase through matter.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ampfibian.png",
+                       "homePlanet":  "Tesslos",
+                       "firstAppearance":  "Deep",
+                       "weaknesses":  [
+                                          "Insulated materials block electricity",
+                                          "Cannot breathe air for long",
+                                          "Vulnerable when solid"
+                                      ]
+                   },
+                   {
+                       "id":  31,
+                       "name":  "Armodrillo",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Talpaedan",
+                       "abilities":  [
+                                         "Jackhammer arms",
+                                         "Seismic sense",
+                                         "Enhanced strength",
+                                         "Drilling"
+                                     ],
+                       "description":  "An armadillo-like alien with powerful drilling capabilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Armodrillo.png",
+                       "homePlanet":  "Terraexcava",
+                       "firstAppearance":  "Andreas\u0027 Fault",
+                       "weaknesses":  [
+                                          "Sonic attacks",
+                                          "Cannot drill through certain materials",
+                                          "Vulnerable to extreme cold"
+                                      ]
+                   },
+                   {
+                       "id":  32,
+                       "name":  "Terraspin",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Geochelone Aerio",
+                       "abilities":  [
+                                         "Aerokinesis",
+                                         "Wind generation",
+                                         "Shell retraction",
+                                         "Flight"
+                                     ],
+                       "description":  "A turtle-like alien that can generate powerful wind attacks.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Terraspin.png",
+                       "homePlanet":  "Aldabra",
+                       "firstAppearance":  "Escape from Aggregor",
+                       "weaknesses":  [
+                                          "Cannot generate wind in vacuum",
+                                          "Shell can be penetrated",
+                                          "Vulnerable to extreme cold"
+                                      ]
+                   },
+                   {
+                       "id":  33,
+                       "name":  "NRG",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Prypiatosian-B",
+                       "abilities":  [
+                                         "Radiation emission",
+                                         "Heat generation",
+                                         "Energy consumption",
+                                         "Flight"
+                                     ],
+                       "description":  "A radioactive energy being contained in a protective suit.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/NRG.png",
+                       "homePlanet":  "Prypiatos",
+                       "firstAppearance":  "Too Hot to Handle",
+                       "weaknesses":  [
+                                          "Suit contains radiation",
+                                          "Without suit spreads dangerous radiation",
+                                          "Cannot touch others safely"
+                                      ]
+                   },
+                   {
+                       "id":  34,
+                       "name":  "Fasttrack",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Citrakayah",
+                       "abilities":  [
+                                         "Super speed",
+                                         "Enhanced reflexes",
+                                         "Enhanced strength"
+                                     ],
+                       "description":  "A feline-like alien with incredible running speed.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Fasttrack.png",
+                       "homePlanet":  "Chalybeas",
+                       "firstAppearance":  "Basic Training",
+                       "weaknesses":  [
+                                          "Not as fast as XLR8",
+                                          "Less agile than XLR8",
+                                          "Limited stamina"
+                                      ]
+                   },
+                   {
+                       "id":  35,
+                       "name":  "ChamAlien",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Merlinisapien",
+                       "abilities":  [
+                                         "Invisibility",
+                                         "Camouflage",
+                                         "Enhanced agility",
+                                         "Wall crawling"
+                                     ],
+                       "description":  "A chameleon-like alien with advanced camouflage abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Chamalien.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Duped",
+                       "weaknesses":  [
+                                          "Cannot turn invisible if covered in substances",
+                                          "Scent can be tracked",
+                                          "Vulnerable when visible"
+                                      ]
+                   },
+                   {
+                       "id":  36,
+                       "name":  "Eatle",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Oryctini",
+                       "abilities":  [
+                                         "Matter consumption",
+                                         "Energy conversion",
+                                         "Laser horn",
+                                         "Enhanced strength"
+                                     ],
+                       "description":  "A beetle-like alien that can eat matter and convert it into energy beams.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/eatle.png",
+                       "homePlanet":  "Coleop Terra",
+                       "firstAppearance":  "The Eggman Cometh",
+                       "weaknesses":  [
+                                          "Cannot eat everything",
+                                          "Limited by stomach capacity",
+                                          "Vulnerable to indigestion"
+                                      ]
+                   },
+                   {
+                       "id":  37,
+                       "name":  "Clockwork",
+                       "debut":  "Ultimate Alien",
+                       "species":  "Chronosapien",
+                       "abilities":  [
+                                         "Time manipulation",
+                                         "Time rays",
+                                         "Slow motion fields",
+                                         "Time travel"
+                                     ],
+                       "description":  "A mechanical alien that can manipulate time itself.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Clockwork.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Ben 10,000 Returns",
+                       "weaknesses":  [
+                                          "Time powers don\u0027t work on Chronosapiens",
+                                          "Vulnerable to time attacks",
+                                          "Cannot reverse major events"
+                                      ]
+                   },
+                   {
+                       "id":  38,
+                       "name":  "Jury Rigg",
+                       "debut":  "Ultimate Alien",
+                       "species":  "PlanchakÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼le",
+                       "abilities":  [
+                                         "Enhanced intelligence",
+                                         "Technology manipulation",
+                                         "Demolition expertise"
+                                     ],
+                       "description":  "A small gremlin-like alien obsessed with taking apart and rebuilding machines.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Jury_Rigg.png",
+                       "homePlanet":  "Aul-Turrhen",
+                       "firstAppearance":  "The Forge of Creation",
+                       "weaknesses":  [
+                                          "Compulsive need to dismantle",
+                                          "Cannot help taking things apart",
+                                          "Easily distracted"
+                                      ]
+                   },
+                   {
+                       "id":  39,
+                       "name":  "Feedback",
+                       "debut":  "Omniverse",
+                       "species":  "Conductoid",
+                       "abilities":  [
+                                         "Energy absorption",
+                                         "Energy redirection",
+                                         "Antenna antennae",
+                                         "Energy detection"
+                                     ],
+                       "description":  "A battery-like alien that can absorb and redirect energy.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/TFeedback.png",
+                       "homePlanet":  "Teslavorr",
+                       "firstAppearance":  "The More Things Change: Part 1",
+                       "weaknesses":  [
+                                          "Cannot absorb energy while full",
+                                          "Vulnerable when drained",
+                                          "Overloading can harm him"
+                                      ]
+                   },
+                   {
+                       "id":  40,
+                       "name":  "Bloxx",
+                       "debut":  "Omniverse",
+                       "species":  "Segmentasapien",
+                       "abilities":  [
+                                         "Shape-shifting",
+                                         "Construction",
+                                         "Regeneration",
+                                         "Enhanced durability"
+                                     ],
+                       "description":  "A building block-like alien that can reshape his body in various forms.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Bloxx.png",
+                       "homePlanet":  "Polyominus",
+                       "firstAppearance":  "A Jolt From the Past",
+                       "weaknesses":  [
+                                          "Sharp objects",
+                                          "Extreme cold makes him brittle",
+                                          "Can be pulled apart"
+                                      ]
+                   },
+                   {
+                       "id":  41,
+                       "name":  "Gravattack",
+                       "debut":  "Omniverse",
+                       "species":  "Galilean",
+                       "abilities":  [
+                                         "Gravity manipulation",
+                                         "Levitation",
+                                         "Orbit creation",
+                                         "Planetoid core"
+                                     ],
+                       "description":  "A living planet with control over gravitational forces.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Gravattack.png",
+                       "homePlanet":  "Keplorr",
+                       "firstAppearance":  "A Jolt From the Past",
+                       "weaknesses":  [
+                                          "Core is vulnerable",
+                                          "Cannot affect massless things",
+                                          "Limited mobility"
+                                      ]
+                   },
+                   {
+                       "id":  42,
+                       "name":  "Crashhopper",
+                       "debut":  "Omniverse",
+                       "species":  "Orthopterran",
+                       "abilities":  [
+                                         "Enhanced jumping",
+                                         "Enhanced strength",
+                                         "Enhanced speed",
+                                         "Sharp legs"
+                                     ],
+                       "description":  "A grasshopper-like alien with powerful jumping abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Crashhopper.png",
+                       "homePlanet":  "Hathor",
+                       "firstAppearance":  "A Jolt From the Past",
+                       "weaknesses":  [
+                                          "Requires space to jump",
+                                          "Limited in confined areas",
+                                          "Landing accuracy issues"
+                                      ]
+                   },
+                   {
+                       "id":  43,
+                       "name":  "Ball Weevil",
+                       "debut":  "Omniverse",
+                       "species":  "Unknown",
+                       "abilities":  [
+                                         "Plasma sphere generation",
+                                         "Explosive spheres",
+                                         "Wall crawling"
+                                     ],
+                       "description":  "A weevil-like alien that can create explosive plasma balls.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ball_weevil.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Of Predators and Prey: Part 1",
+                       "weaknesses":  [
+                                          "Plasma spheres can be redirected",
+                                          "Vulnerable to own explosions",
+                                          "Limited combat ability"
+                                      ]
+                   },
+                   {
+                       "id":  44,
+                       "name":  "Walkatrout",
+                       "debut":  "Omniverse",
+                       "species":  "Ickthyperambuloid",
+                       "abilities":  [
+                                         "Underwater breathing",
+                                         "Slippery body",
+                                         "Enhanced swimming"
+                                     ],
+                       "description":  "A fish-like alien that is surprisingly ineffective in most situations.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Walky.png",
+                       "homePlanet":  "Gilli-Perambulous Promenade",
+                       "firstAppearance":  "While You Were Away",
+                       "weaknesses":  [
+                                          "Weak physical strength",
+                                          "Dehydration",
+                                          "Useless in most combat"
+                                      ]
+                   },
+                   {
+                       "id":  45,
+                       "name":  "Pesky Dust",
+                       "debut":  "Omniverse",
+                       "species":  "Nemuina",
+                       "abilities":  [
+                                         "Flight",
+                                         "Dream manipulation",
+                                         "Sleep inducement",
+                                         "Size manipulation"
+                                     ],
+                       "description":  "A fairy-like alien that can put enemies to sleep and control their dreams.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Pesky_Dust.png",
+                       "homePlanet":  "Nemunimos IV",
+                       "firstAppearance":  "Malefactor",
+                       "weaknesses":  [
+                                          "Small size",
+                                          "Powers only work on sleeping targets",
+                                          "Vulnerable to being swatted"
+                                      ]
+                   },
+                   {
+                       "id":  46,
+                       "name":  "Mole-Stache",
+                       "debut":  "Omniverse",
+                       "species":  "Unknown",
+                       "abilities":  [
+                                         "Enhanced strength",
+                                         "Mustache manipulation",
+                                         "Drilling",
+                                         "Enhanced digging"
+                                     ],
+                       "description":  "A mole-like alien with a powerful prehensile mustache.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Mole_Stache.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Outbreak",
+                       "weaknesses":  [
+                                          "Mustache can be grabbed",
+                                          "Sensitive whiskers",
+                                          "Vulnerable to fire"
+                                      ]
+                   },
+                   {
+                       "id":  47,
+                       "name":  "The Worst",
+                       "debut":  "Omniverse",
+                       "species":  "Atrocian",
+                       "abilities":  [
+                                         "Indestructibility",
+                                         "Pain immunity",
+                                         "Enhanced durability"
+                                     ],
+                       "description":  "An indestructible alien that is ironically named The Worst.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/The_Worst.png",
+                       "homePlanet":  "Atrocius 0",
+                       "firstAppearance":  "The More Things Change: Part 1",
+                       "weaknesses":  [
+                                          "Cannot fight back effectively",
+                                          "Completely harmless",
+                                          "Annoying but useless"
+                                      ]
+                   },
+                   {
+                       "id":  48,
+                       "name":  "Gutrot",
+                       "debut":  "Omniverse",
+                       "species":  "Unknown",
+                       "abilities":  [
+                                         "Gas generation",
+                                         "Chemical creation",
+                                         "Gas immunity",
+                                         "Gas manipulation"
+                                     ],
+                       "description":  "An alien that can create and emit various types of gases from his body.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Gutrot.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Outbreak",
+                       "weaknesses":  [
+                                          "Some gases harm him",
+                                          "Limited by imagination",
+                                          "Vulnerable to gas-eating creatures"
+                                      ]
+                   },
+                   {
+                       "id":  49,
+                       "name":  "Kickin Hawk",
+                       "debut":  "Omniverse",
+                       "species":  "Unknown",
+                       "abilities":  [
+                                         "Enhanced combat",
+                                         "Enhanced agility",
+                                         "Sharp talons",
+                                         "Strong kicks"
+                                     ],
+                       "description":  "A rooster-like alien skilled in martial arts and hand-to-hand combat.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Kicken_Hawk.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Outbreak",
+                       "weaknesses":  [
+                                          "Limited ranged attacks",
+                                          "Overconfidence",
+                                          "Vulnerable to grabs"
+                                      ]
+                   },
+                   {
+                       "id":  50,
+                       "name":  "Atomix",
+                       "debut":  "Omniverse",
+                       "species":  "Unknown",
+                       "abilities":  [
+                                         "Nuclear energy manipulation",
+                                         "Flight",
+                                         "Energy blasts",
+                                         "Radiation immunity"
+                                     ],
+                       "description":  "A nuclear-powered alien with devastating atomic abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Atomix.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "For a Few Brains More",
+                       "weaknesses":  [
+                                          "Radiation can harm allies",
+                                          "Massive energy consumption",
+                                          "Can cause collateral damage"
+                                      ]
+                   },
+                   {
+                       "id":  51,
+                       "name":  "Astrodactyl",
+                       "debut":  "Omniverse",
+                       "species":  "Unknown",
+                       "abilities":  [
+                                         "Flight",
+                                         "Energy whips",
+                                         "Stellar propulsion",
+                                         "Star generation"
+                                     ],
+                       "description":  "A pterodactyl-like alien with energy-based flight and combat abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Astrodactyl.png",
+                       "homePlanet":  "Terradino",
+                       "firstAppearance":  "Outbreak",
+                       "weaknesses":  [
+                                          "Limited flight in atmosphere",
+                                          "Energy whips can be cut",
+                                          "Vulnerable to extreme cold"
+                                      ]
+                   },
+                   {
+                       "id":  52,
+                       "name":  "Bullfrag",
+                       "debut":  "Omniverse",
+                       "species":  "Incursean",
+                       "abilities":  [
+                                         "Enhanced jumping",
+                                         "Enhanced agility",
+                                         "Long tongue",
+                                         "Enhanced strength"
+                                     ],
+                       "description":  "A frog-like alien with incredible jumping and combat abilities.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Bullfrag.png",
+                       "homePlanet":  "Unknown",
+                       "firstAppearance":  "Outbreak",
+                       "weaknesses":  [
+                                          "Easily angered",
+                                          "Limited intelligence",
+                                          "Vulnerable to heat"
+                                      ]
+                   },
+                   {
+                       "id":  53,
+                       "name":  "Whampire",
+                       "debut":  "Omniverse",
+                       "species":  "Vladat",
+                       "abilities":  [
+                                         "Life force absorption",
+                                         "Hypnosis",
+                                         "Corruptura generation",
+                                         "Flight"
+                                     ],
+                       "description":  "A vampire-like alien that can control others and drain their energy.",
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Whampire.png",
+                       "homePlanet":  "Anur Transyl",
+                       "firstAppearance":  "Rad Monster Party",
+                       "weaknesses":  [
+                                          "Sunlight",
+                                          "Cannot control strong-willed beings",
+                                          "Vulnerable to stakes"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Buzzshock.png",
+                       "species":  "Nosedeenian",
+                       "id":  54,
+                       "abilities":  [
+                                         "Electrical absorption",
+                                         "Electric blasts",
+                                         "Small size",
+                                         "Flight"
+                                     ],
+                       "description":  "A small battery-like alien that can manipulate electricity.",
+                       "firstAppearance":  "Ben 10 vs. the Negative 10: Part 1",
+                       "name":  "Buzzshock",
+                       "homePlanet":  "Nosedeen Quasar",
+                       "debut":  "Ben 10",
+                       "weaknesses":  [
+                                          "Insulators",
+                                          "Water can short-circuit him",
+                                          "Small size makes him fragile"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Arctiguana.png",
+                       "species":  "Polar Manzardill",
+                       "id":  55,
+                       "abilities":  [
+                                         "Ice breath",
+                                         "Ice constructs",
+                                         "Cold immunity",
+                                         "Enhanced strength"
+                                     ],
+                       "description":  "A reptilian alien that can breathe ice and survive freezing temperatures.",
+                       "firstAppearance":  "The Big Tick",
+                       "name":  "Arctiguana",
+                       "homePlanet":  "X\u0027Nelli",
+                       "debut":  "Ben 10",
+                       "weaknesses":  [
+                                          "Heat",
+                                          "Fire melts ice",
+                                          "Cannot generate ice without moisture"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Spitter.png",
+                       "species":  "Spheroid",
+                       "id":  56,
+                       "abilities":  [
+                                         "Slime projectiles",
+                                         "Inflatable body",
+                                         "Slippery skin"
+                                     ],
+                       "description":  "A pufferfish-like alien that spits slime projectiles.",
+                       "firstAppearance":  "Ben 10,000 (Original Series)",
+                       "name":  "Spitter",
+                       "homePlanet":  "Scalpasc",
+                       "debut":  "Ben 10",
+                       "weaknesses":  [
+                                          "Limited mobility",
+                                          "Slime can be neutralized",
+                                          "Vulnerable when deflated"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Toepick.png",
+                       "species":  "Unknown",
+                       "id":  57,
+                       "abilities":  [
+                                         "Horrifying face",
+                                         "Fear inducement"
+                                     ],
+                       "description":  "An alien whose face is so terrifying it paralyzes anyone who sees it.",
+                       "firstAppearance":  "The Frogs of War: Part 2",
+                       "name":  "Toepick",
+                       "homePlanet":  "Unknown",
+                       "debut":  "Omniverse",
+                       "weaknesses":  [
+                                          "Blind or fearless opponents",
+                                          "Cannot scare everyone",
+                                          "Face must be seen"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Nanomech.png",
+                       "species":  "Nanochip/Human Hybrid",
+                       "id":  58,
+                       "abilities":  [
+                                         "Size alteration",
+                                         "Flight",
+                                         "Bio-electricity",
+                                         "Adapt to technology"
+                                     ],
+                       "description":  "A tiny insectoid alien created from alien nanochips.",
+                       "firstAppearance":  "Ben 10: Alien Swarm",
+                       "name":  "Nanomech",
+                       "homePlanet":  "Unknown",
+                       "debut":  "Alien Force",
+                       "weaknesses":  [
+                                          "Extremely fragile",
+                                          "Limited by small size",
+                                          "Technology can malfunction"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Shocksquatch.png",
+                       "species":  "Gimlinopithecus",
+                       "id":  59,
+                       "abilities":  [
+                                         "Electrokinesis",
+                                         "Enhanced strength",
+                                         "Electrical absorption"
+                                     ],
+                       "description":  "A powerful gorilla-like alien with electrical abilities.",
+                       "firstAppearance":  "Ben 10/Generator Rex: Heroes United",
+                       "name":  "Shocksquatch",
+                       "homePlanet":  "Pattersonea",
+                       "debut":  "Omniverse",
+                       "weaknesses":  [
+                                          "Insulators",
+                                          "Grounded surfaces",
+                                          "Rubber nullifies electricity"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Benwolf.png",
+                       "species":  "Loboan",
+                       "id":  60,
+                       "abilities":  [
+                                         "Enhanced strength",
+                                         "Sharp claws",
+                                         "Sonic howl",
+                                         "Enhanced agility"
+                                     ],
+                       "description":  "A werewolf-like alien from Anur Transyl\u0027s moon.",
+                       "firstAppearance":  "Benwolf",
+                       "name":  "Benwolf",
+                       "homePlanet":  "Luna Lobo",
+                       "debut":  "Ben 10",
+                       "weaknesses":  [
+                                          "High-pitched sounds",
+                                          "Vulnerable to silver",
+                                          "Animal instincts"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Benmummy.png",
+                       "species":  "Thep Khufan",
+                       "id":  61,
+                       "abilities":  [
+                                         "Bandage generation",
+                                         "Stretching",
+                                         "Enhanced strength",
+                                         "Regeneration"
+                                     ],
+                       "description":  "A mummy-like alien wrapped in bandages.",
+                       "firstAppearance":  "Under Wraps",
+                       "name":  "Benmummy",
+                       "homePlanet":  "Anur Khufos",
+                       "debut":  "Ben 10",
+                       "weaknesses":  [
+                                          "Fire",
+                                          "Bandages can be unwrapped",
+                                          "Vulnerable to tearing"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Benvicktor.png",
+                       "species":  "Transylian",
+                       "id":  62,
+                       "abilities":  [
+                                         "Electrokinesis",
+                                         "Enhanced strength",
+                                         "Conductor generation"
+                                     ],
+                       "description":  "A Frankenstein-like alien with electrical powers.",
+                       "firstAppearance":  "Be Afraid of the Dark",
+                       "name":  "Benvicktor",
+                       "homePlanet":  "Anur Transyl",
+                       "debut":  "Ben 10",
+                       "weaknesses":  [
+                                          "Insulators",
+                                          "Water short-circuits",
+                                          "Vulnerable to overloading"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ultimate_Wildmutt.png",
+                       "species":  "Evolved Vulpimancer",
+                       "id":  63,
+                       "baseFormId":  9,
+                       "abilities":  [
+                                         "Enhanced senses",
+                                         "Enhanced strength",
+                                         "Spikes",
+                                         "Sonic bark"
+                                     ],
+                       "baseFormName":  "Wildmutt",
+                       "description":  "The evolved form of Wildmutt with enhanced abilities.",
+                       "firstAppearance":  "The Purge",
+                       "name":  "Ultimate Wildmutt",
+                       "homePlanet":  "Vulpin",
+                       "debut":  "Ultimate Alien",
+                       "weaknesses":  [
+                                          "Still blind",
+                                          "Spikes can be grabbed",
+                                          "Vulnerable to strong scents"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ultimate_Big_Chill.png",
+                       "species":  "Evolved Necrofriggian",
+                       "id":  64,
+                       "baseFormId":  21,
+                       "abilities":  [
+                                         "Ice flames",
+                                         "Intangibility",
+                                         "Flight",
+                                         "Flame breath"
+                                     ],
+                       "baseFormName":  "Big Chill",
+                       "description":  "The evolved form of Big Chill with ice flame powers.",
+                       "firstAppearance":  "Hit \u0027Em Where They Live",
+                       "name":  "Ultimate Big Chill",
+                       "homePlanet":  "Kylmyys",
+                       "debut":  "Ultimate Alien",
+                       "weaknesses":  [
+                                          "Cannot become intangible",
+                                          "Ice flames can be extinguished",
+                                          "Extreme heat"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/ultimate_swampfire.png",
+                       "species":  "Evolved Methanosian",
+                       "id":  65,
+                       "baseFormId":  17,
+                       "abilities":  [
+                                         "Enhanced pyrokinesis",
+                                         "Enhanced strength",
+                                         "Explosive fruits",
+                                         "Blue flames"
+                                     ],
+                       "baseFormName":  "Swampfire",
+                       "description":  "The evolved form of Swampfire with blue flames.",
+                       "firstAppearance":  "The Final Battle: Part 1",
+                       "name":  "Ultimate Swampfire",
+                       "homePlanet":  "Methanos",
+                       "debut":  "Ultimate Alien",
+                       "weaknesses":  [
+                                          "Blue flames consume him faster",
+                                          "Regeneration is slower",
+                                          "Water can extinguish flames"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/ultimate_humungusaur.png",
+                       "species":  "Evolved Vaxasaurian",
+                       "id":  66,
+                       "baseFormId":  19,
+                       "abilities":  [
+                                         "Bio-missiles",
+                                         "Enhanced strength",
+                                         "Size alteration",
+                                         "Spiked armor"
+                                     ],
+                       "baseFormName":  "Humungousaur",
+                       "description":  "The evolved form of Humungousaur with missile launchers.",
+                       "firstAppearance":  "The Final Battle: Part 2",
+                       "name":  "Ultimate Humungousaur",
+                       "homePlanet":  "Terradino",
+                       "debut":  "Ultimate Alien",
+                       "weaknesses":  [
+                                          "Less mobile",
+                                          "Missiles can be deflected",
+                                          "High energy drain"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ultimate_Echo_Echo.png",
+                       "species":  "Evolved Sonorosian",
+                       "id":  67,
+                       "baseFormId":  18,
+                       "abilities":  [
+                                         "Sonic discs",
+                                         "Enhanced sound manipulation",
+                                         "Flight"
+                                     ],
+                       "baseFormName":  "Echo Echo",
+                       "description":  "The evolved form of Echo Echo with disc-based attacks.",
+                       "firstAppearance":  "Map of Infinity",
+                       "name":  "Ultimate Echo Echo",
+                       "homePlanet":  "Sonorosia",
+                       "debut":  "Ultimate Alien",
+                       "weaknesses":  [
+                                          "Discs can be destroyed",
+                                          "Sound dampening materials",
+                                          "Limited ammunition"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ultimate_Spidermonkey.png",
+                       "species":  "Evolved Arachnichimp",
+                       "id":  68,
+                       "baseFormId":  24,
+                       "abilities":  [
+                                         "Spider legs",
+                                         "Enhanced strength",
+                                         "Webs",
+                                         "Gorilla mode"
+                                     ],
+                       "baseFormName":  "Spidermonkey",
+                       "description":  "The evolved form of Spidermonkey with extra spider legs.",
+                       "firstAppearance":  "The Ultimate Enemy: Part 1",
+                       "name":  "Ultimate Spidermonkey",
+                       "homePlanet":  "Aranhascimmia",
+                       "debut":  "Ultimate Alien",
+                       "weaknesses":  [
+                                          "Spider legs are vulnerable",
+                                          "Fire",
+                                          "Can be toppled"
+                                      ]
+                   },
+                   {
+                       "image": "https://raw.githubusercontent.com/EdxInglisz/Ben10Aliens/main/aliens/Ultimate_Cannonbolt.png",
+                       "species":  "Evolved Arburian Pelarota",
+                       "id":  69,
+                       "baseFormId":  11,
+                       "abilities":  [
+                                         "Enhanced strength",
+                                         "Spiked shell",
+                                         "Speed",
+                                         "Devastating attacks"
+                                     ],
+                       "baseFormName":  "Cannonbolt",
+                       "description":  "The evolved form of Cannonbolt with a spiked shell.",
+                       "firstAppearance":  "The Ultimate Enemy: Part 2",
+                       "name":  "Ultimate Cannonbolt",
+                       "homePlanet":  "Arburia",
+                       "debut":  "Ultimate Alien",
+                       "weaknesses":  [
+                                          "Spikes can be broken",
+                                          "Cannot see while rolled",
+                                          "Less maneuverable"
+                                      ]
+                   }
+               ]
+}
